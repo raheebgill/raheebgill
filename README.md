@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @raheebgill
 - 👀 I’m interested in learning about AI
 - 🌱 Learning Python and Javascript 
-- 
+-     Currently acting as content writer in GDSC
 - 📫 How to reach me ...
+Email raheebrehman29@gmail.com
+Linkedin www.linkedin.com/in/raheeb-rehman-37857417a
+Instagram https://www.instagram.com/raheeb.gill29/
 
-<!---
-raheebgill/raheebgill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
